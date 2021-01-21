@@ -32,5 +32,10 @@ if (answer5=== "197"){
   points = points + 5
 };
 
+let answer6 = prompt (`Structural and functional elementary unit of the structure and life of all organisms?`);
+if (answer6=== "cell"){
+  points = points + 5
+};
+
 
 alert(`You've earned ` + points + " points");
