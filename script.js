@@ -27,7 +27,10 @@ if (answer4=== "4500"){
   points = points + 5
 };
 
-
+let answer5 = prompt(`How many recognized countries are there in the world?`);
+if (answer5=== "197"){
+  points = points + 5
+};
 
 
 alert(`You've earned ` + points + " points");
