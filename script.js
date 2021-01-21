@@ -65,6 +65,16 @@ if (answer12=== "cheetah"){
   points = points + 5
 };
 
+let answer13 =prompt(`Цhat is the largest animal in the world?`);
+if (answer13=== "blue whale"){
+  points = points + 5
+};
+
+
+let answer14 = prompt(`What is the oldest city in the world?`);
+if (answer14 === "Jericho"){
+  points = points + 5
+};
 
 
 alert(`You've earned ` + points + " points");
