@@ -88,6 +88,33 @@ if (answer16=== "Talas"){
   points = points + 5
 };
 
+let answer17= prompt(`What is the highest mountain peak in Kyrgyzstan?`);
+if (answer17 === "Lenin"){
+  points = points = 5
+};
+
+
+let answer18 = prompt(`Which epic is the greatest epic in the world?`);
+if (answer18 === "Manas"){
+  points = points + 5
+};
+
+
+let answer19 = prompt(`Who became the first woman to serve as Prime Minister of Great Britain?`);
+if (answer19 === "Margaret Thatcher"){
+  points = parseInt + 5
+};
+
+let answer20 = prompt(`Who is the last king / queen of Egypt?`);
+if (answer20 === "Cleopatra"){
+  points = points = 5
+};
+
+
+
+
+
+
 
 
 
