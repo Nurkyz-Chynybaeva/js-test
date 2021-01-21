@@ -3,10 +3,13 @@ let points = 0;
 
 let answer1 = prompt(`in which country is the legendary Everest?`);
 if (answer1=== "Nepal"){
-  points = points +5
+  points = points + 5
 };
 
-
+let answer10 = prompt(`What year was the collapse of the ussr?`);
+if (answer10=== "1991"){
+  points = points + 5
+};
 
 
 let answer2 = prompt(`What year did the first world war start?`);
