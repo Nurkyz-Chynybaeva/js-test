@@ -7,6 +7,8 @@ if (answer1=== "Nepal"){
 };
 
 
+
+
 let answer2 = prompt(`What year did the first world war start?`);
 if (answer2=== "1914") {
    points = points + 5
@@ -20,7 +22,10 @@ if (answer3=== "1918") {
 };
 
 
-
+let answer4 = prompt(`Aboute how old is the Pyramid of Cheops?`);
+if (answer4=== "4500"){
+  points = points + 5
+};
 
 
 
