@@ -37,6 +37,10 @@ if (answer7=== "Switzerland"){
   points = points + 5
 };
 
+let answer8 =prompt(`Which country is the most economically successful country in the European Union?`);
+if (answer8=== "Germany"){
+  points = points + 5
+};
 
 
 let answer6 = prompt (`Structural and functional elementary unit of the structure and life of all organisms?`);
