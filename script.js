@@ -6,11 +6,15 @@ if (answer1=== "Nepal"){
   points = points + 5
 };
 
-let answer10 = prompt(`What year was the collapse of the ussr?`);
+let answer10 = prompt(`What year was the collapse of the USSR?`);
 if (answer10=== "1991"){
   points = points + 5
 };
 
+let answer11 =prompt(`How many union republics were part of the USSR?`);
+if (answer11=== "15"){
+  points = points + 5
+};
 
 let answer2 = prompt(`What year did the first world war start?`);
 if (answer2=== "1914") {
@@ -56,7 +60,10 @@ if (answer6=== "cell"){
   points = points + 5
 };
 
-
+let answer12 = prompt(`Which animal is the fastest animal in the world?`)
+if (answer12=== "cheetah"){
+  points = points + 5
+};
 
 
 
