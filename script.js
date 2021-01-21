@@ -8,4 +8,15 @@ if (answer1=== "1914") {
 
 
 
+let answer2 = prompt(`What year did the First World War end?`);
+if (answer2=== "1918") {
+  points = points + 5
+};
+
+
+
+
+
+
+
 alert(`You've earned ` + points + " points");
