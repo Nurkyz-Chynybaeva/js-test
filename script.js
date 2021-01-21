@@ -77,4 +77,24 @@ if (answer14 === "Jericho"){
 };
 
 
+let answer15 = prompt(`Which region is the largest region in terms of area in Kyrgyzstan?`);
+if (answer15 === "Naryn"){
+  points = points + 5
+};
+
+
+let answer16 =prompt(`Which is the smallest region in Kyrgyzstan?`);
+if (answer16=== "Talas"){
+  points = points + 5
+};
+
+
+
+
+
+
+
+
+
+
 alert(`You've earned ` + points + " points");
