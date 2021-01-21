@@ -102,12 +102,12 @@ if (answer18 === "Manas"){
 
 let answer19 = prompt(`Who became the first woman to serve as Prime Minister of Great Britain?`);
 if (answer19 === "Margaret Thatcher"){
-  points = parseInt + 5
+  points = points + 5
 };
 
 let answer20 = prompt(`Who is the last king / queen of Egypt?`);
 if (answer20 === "Cleopatra"){
-  points = points = 5
+  points = points + 5
 };
 
 
