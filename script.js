@@ -94,7 +94,7 @@ if (answer15=== "cheetah"){
   points = points + 5
 };
 
-let answer16 =prompt(`Цhat is the largest animal in the world?`);
+let answer16 =prompt(`What is the largest animal in the world?`);
 if (answer16=== "blue whale"){
   points = points + 5
 };
